@@ -1,0 +1,36 @@
+ h1{
+
+color: blue;
+background-color: aquamarine;
+ }
+ table,th,td {
+border-style: solid;color: black;
+border-collapse: collapse;
+border-spacing: 0cap;
+ }
+.White { 
+
+
+    color: black;
+}
+
+
+
+
+#kaxa {
+color: black
+background-color: beige;
+
+}
+
+th{
+
+    color: blue;
+    background-color: yellow ;
+    border-style: dashed;
+}
+td{
+    color: black;
+    background-color: blanchedalmond;
+    border-style: dashed;
+}
